@@ -13,6 +13,7 @@ ithc.io: https://lucasananin.itch.io/support-droid
 # credits
 
 Lucas Bernard: Game Design and Programming.
+
 Gabriel Denis: 3d art.
 
 Artur Victor: Animation;
