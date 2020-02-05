@@ -1,5 +1,5 @@
 # support-droid
 
-Project developed for the Global Game Jam 2020.
+Developed for the global game jam 2020, which has the theme  "repair". Take control of a robot who has to keep repairing a broken spaceship.
 
-Using Unity 2018.4.16f1
+Made with Unity 2018.4.16f1
