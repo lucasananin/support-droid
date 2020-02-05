@@ -6,15 +6,15 @@ Made with Unity 2018.4.16f1
 
 # download
 
-official page: https://globalgamejam.org/2020/games/support-droid-5
+Official Page: https://globalgamejam.org/2020/games/support-droid-5
 
-ithc.io: https://lucasananin.itch.io/support-droid
+Itch.io: https://lucasananin.itch.io/support-droid
 
 # credits
 
 Lucas Bernard: Game Design and Programming.
 
-Gabriel Denis: 3d art.
+Gabriel Denis: 3d Art.
 
 Artur Victor: Animation;
 
